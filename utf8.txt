@@ -1,8 +1,11 @@
-﻿BOM
+BOM
 
+generate conflict
 niño
 niña
 Ñoño
 Camión
 Pingüino
  
+
+ more conflict
