@@ -1,8 +1,12 @@
-﻿BOM
+BOM
+
+quiero conflict
 
 niño
 niña
 Ñoño
 Camión
 Pingüino
+
+añado mas lineas
  
